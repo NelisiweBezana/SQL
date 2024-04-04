@@ -1,5 +1,4 @@
-# Clustering data to unveil Maji Ndogo's water crisis
-### From analysis to action
+# From analysis to action
 
 In a world where access to clean water is a precious commodity, a team of dedicated researchers embarked on a mission to uncover the hidden truths of water quality in Maji Ndogo. Armed with data, they delved into the depths of information, seeking insights that could make a profound impact on the lives of countless individuals. In this 4 part project we, emphasize the importance of accurate information in addressing water challenges. By uncovering hidden truths and empowering individuals to make informed choices about their water sources, the team aimed to ensure equal access to clean and safe water for all in Maji Ndogo.
 
