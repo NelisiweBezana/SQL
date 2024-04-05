@@ -34,6 +34,28 @@ In this next step, we will cluster our data, stepping back from the individual f
 
 We conduct a comprehensive survey to gather data on water sources, queue times, and infrastructure conditions. The purpose of this data-driven project is to shed light on the key insights, trends, and findings from the survey, exploring their significance and potential real-world implications for the community of Maji Ndogo.
 
+#### Overview:
+1. Cleaning our data:
+Updating our employee data
+
+2. Honouring the workers:
+Finding our best
+
+3. Analysing Locations:
+Understanding where the water sources are
+
+4. Diving into the sources:
+Seeing the scope of the problem
+
+5. Start of a solution:
+Thinking about how we can repair
+
+6. Analysing queues:
+Uncovering when citizens collect water
+
+7. Reporting insights:
+Assembling our sights into a story
+
 ### Key insights
 1. Most water sources are rural.
 2. 43% of our people are using shared taps. 2000 people often share one tap.
