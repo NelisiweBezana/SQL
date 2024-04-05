@@ -27,3 +27,26 @@ We can't overlook the pollution status of our water sources. Let's find those wa
 - Water sources that were labelled as "Clean" were not always what they seemed. Deep within the data, I discovered instances of biological contamination lurking in these supposedly pristine sources. It was a shocking revelation, exposing errors in the classification of water sources and raising concerns about the accuracy of the data.
 - meticulously crafted a step-by-step approach to rectify the errors, ensuring that each contaminated source was accurately labeled. By removing the misleading "Clean" label, I aimed to provide a more accurate representation of water quality, empowering individuals to make informed choices about their water sources.
 - I understood the importance of thorough testing and verification. I painstakingly analyzed the data, running extensive checks to ensure the accuracy of my findings.
+
+# Part 2: Clustering Data to Unveil Maji Ndogo's Water Crisis
+
+In this next step, we will cluster our data, stepping back from the individual figures to gain a panoramic understanding. This bird's eye view will allow us to unearth broader narratives and hidden correlations concealed within our rich dataset. Next, we must pay heed to the different forms of data in our possession. They are not mere numbers or dates; they are stories waiting to be deciphered. Their unique structure, though challenging, brims with valuable insights. As we process these, we unlock deeper layers of understanding.
+
+We conduct a comprehensive survey to gather data on water sources, queue times, and infrastructure conditions. The purpose of this data-driven project is to shed light on the key insights, trends, and findings from the survey, exploring their significance and potential real-world implications for the community of Maji Ndogo.
+
+### Key insights
+1. Most water sources are rural.
+2. 43% of our people are using shared taps. 2000 people often share one tap.
+3. 31% of our population has water infrastructure in their homes, but within that group, 45% face non-functional systems due to issues with pipes,
+pumps, and reservoirs.
+4. 18% of our people are using wells of which, but within that, only 28% are clean.
+5. Our citizens often face long wait times for water, averaging more than 120 minutes.
+6. In terms of queues:
+   - Queues are very long on Saturdays.
+   - Queues are longer in the mornings and evenings.
+   - Wednesdays and Sundays have the shortest queues.
+
+![graph](https://github.com/NelisiweBezana/SQL/assets/140618126/48375587-2c30-4b88-94fd-144e5f9bb3fe)
+
+
+# Part 3:
