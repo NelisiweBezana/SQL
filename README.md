@@ -71,4 +71,28 @@ pumps, and reservoirs.
 ![graph](https://github.com/NelisiweBezana/SQL/assets/140618126/48375587-2c30-4b88-94fd-144e5f9bb3fe)
 
 
-# Part 3:
+# Part 3: Weaving the Data Threads of Maji Ndogo's Narrative
+In this stage, we will be integrating the auditor's report into the database, which will add valuable insights and recommendations for further improvement. This integration will enhance the overall functionality and effectiveness of the database.
+
+We embarked on a data-driven investigation to uncover any signs of corruption within our organization. The findings that emerged from this analysis are both eye-opening and concerning. By analyzing various sources of information, we can identify key insights and patterns that shed light on potential corrupt practices.
+
+Overview:
+1. Generating an ERD:
+Understanding the database structure
+
+2. Integrating the report:
+Adding the auditor report to our database
+
+3. Linking records:
+Joining employee data to the report
+
+4. Gathering evidence:
+Building a complex query seeking truth
+
+### Key Insights:
+- Unusual Mistakes: Through meticulous analysis, we discovered that certain employees consistently made a significantly higher number of mistakes compared to their peers. This raised suspicions of possible corruption, as these individuals seemed to be involved in activities that deviated from standard procedures.
+
+- Alarming Statements: Further investigation revealed that these same employees were associated with records containing incriminating statements. These statements hinted at irregularities and unethical behaviour, with mentions of bribery and questionable financial transactions. The correlation between the employees' suspicious activities and these statements intensified our concerns.
+
+- Real-World Implications: The implications of these findings go beyond our organization. Corruption, in any form, has detrimental effects on society, eroding trust and hindering progress. By addressing and combating corruption within our own ranks, we are taking a stand against this pervasive issue and contributing to a better future for all.
+
