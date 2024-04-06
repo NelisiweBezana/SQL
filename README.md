@@ -99,4 +99,19 @@ Building a complex query seeking truth
 # Part 4: Charting the Course for Maji Ndogo's Water Future
 As we step into this next phase, you will be shaping our raw data into meaningful views- providing essential information to decision-makers. This will enable us to discern the materials we need, plan our budgets, and identify the areas requiring immediate attention. We're not just analysing data; we're making it speak in a language that everyone involved in this mission can understand and act upon. Lastly, we'll be creating job lists for our engineers. Their expertise will be invaluable in tackling the challenges we face, but they can only do their job effectively when they have clear, data-driven directions.
 
-Key Insights
+### Key Insights: 
+Based on the data analysis, we have discovered the following insights:
+1. Water Sources in Maji Ndogo: Most water sources in Maji Ndogo are located in rural areas.
+2. Shared Taps: Approximately 43% of the population relies on shared taps, with an average of 2000 people sharing one tap.
+3. Water Infrastructure in Homes: Around 31% of the population has water infrastructure in their homes. However, within this group:
+   - 45% face non-functional systems due to issues with pipes, pumps, and reservoirs.
+   - Broken infrastructure is observed in towns like Amina, the rural parts of Amanzi, and some towns across Akatsi and Hawassa.
+4. Wells: About 18% of the population uses wells. However, only 28% of these wells are clean. This issue is prevalent in Hawassa, Kilimani, and Akatsi.
+
+5. Wait Times for Water: Citizens often face long wait times for water, with an average wait time of more than 120 minutes. We observed the following patterns:
+   - Long queues are experienced on Saturdays.
+   - Morning and evening periods have longer queues.
+   - Wednesdays and Sundays have shorter queues.
+  
+## Conclusion
+In Maji Ndogo, the journey towards sustainable water access begins with acknowledging the existing disparities and taking targeted actions to address them. By focusing on repairing broken infrastructure, installing filters in contaminated wells, expanding shared tap systems, and drilling new wells near rivers, we can pave the way for a future where every individual has the right to clean and accessible water.
